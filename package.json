@@ -19,7 +19,9 @@
       "email": "dev@tavan.de"
     }
   ],
-  "dependencies": {},
+  "dependencies": {
+    "crypto-js": "*"
+    },
   "description": "Rigorous implementation of RFC4122 (v1 and v4) UUIDs.",
   "devDependencies": {
     "nyc": "^2.2.0"
